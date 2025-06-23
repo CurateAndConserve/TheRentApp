@@ -1,0 +1,6 @@
+TheRentApp (CurateAndConserve@gmail.com), collects data via Google Firebase to keep track of photos (for proof of payment) and data (dates, and amount) that tentants will submit. Owners can log in and view the submissions from their respective tenants.  
+Confirmed users will be hand added or deleted via Google Firebase. 
+
+Emails will be sent to tenants for changes to policy. 
+
+last updated: 2025-6-22
